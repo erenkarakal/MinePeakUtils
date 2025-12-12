@@ -7,4 +7,5 @@ public class MinePeakUtils implements ModInitializer {
     @Override
     public void onInitialize() {
     }
+
 }
